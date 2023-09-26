@@ -225,3 +225,19 @@ h2 {
     transition: all 0.1s ease-in;
   }
 }
+
+/* Changes Told Status Button */
+.joke-btn-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.told-status-btn {
+  border: none;
+  background: none;
+}
+
+.told-delete-btn {
+  border: none;
+  background: none;
+}
